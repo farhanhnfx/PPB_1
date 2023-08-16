@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         // comment
         // add comment
+
+        // comment di branch baru
     }
 }
